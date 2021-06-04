@@ -1,1 +1,1 @@
-# Diverse_mating_phenotypes_impact_the_spread_of_wtf_meiotic_drivers_in_S.-pombe
+# Diverse mating phenotypes impact the spread of wtf meiotic drivers in _S. pombe_
