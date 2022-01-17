@@ -1,0 +1,5 @@
+
+Lo K, Hahne F, Brinkman RR, Gottardo R. 2009. flowClust: a Bioconductor package for automated gating of flow
+cytometry data. BMC Bioinformatics 10:145. DOI: https:// doi. org/ 10. 1186/ 1471- 2105- 10- 145, PMID: 19442304
+
+Team RC. 2019. A language and environment for statistical computing. R Core Team.
